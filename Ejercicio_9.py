@@ -16,7 +16,7 @@ while contador < personas:
     print()
     apellido = input("- Ingrese el apellido: ")
     print()
-    edad = input("- Ingrese la edad: ", "Años")
+    edad = input("- Ingrese la edad: ")
     print()
 
     print("> Nombre: ", nombre)
